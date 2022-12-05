@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is in my fridge</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/32c48c7151.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    
+    <h2 id="introduction">Too lazy to go to the supermarket?</h2>
+    <p id="sub_introduction">You're in the right place! just provide us 
+     with the ingredients<br> you already have at home and we'll take care of the rest!
+    </p>
+      
+    <div class="Div_ingredients_form">
+        <form id="ingredients_form" onsubmit="return false;"> 
+            <input id="new_single_ingredient" placeholder="Type to search" type="text">
+        </form>
+        <div class="Div_results">
+            <ul class="results_list"></ul>
+        </div>
+    </div>
+
+    <p id="note">Ingredients like water, salt, and pepper are assumed to be present, so you don't have to worry about that</p>
+
+    
+    <br>
+    <div id="div_submit_page">
+        <a href="results.html">
+            <input type="submit" id="submit_page" value="Submit Page">
+        </a>
+    </div>
+    <script src="script2.js"></script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+*{
+  transition: all 0.2s linear;
+}
+
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  padding:5px;
+  margin:20px;
+  background-image: url(ord.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color:#004e46;
+}
+#page_title{
+  font-size: 35px;
+  padding:5px;
+}
+
+#introduction{
+  width:45%;
+  font-size: 30px;
+}
+#sub_introduction{
+  font-size: 25px;
+}
+
+
+
+#new_single_ingredient{
+    border: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+input:focus{
+    outline: none;
+    border:0px;
+}
+
+
+
+
+.Div_ingredients_form {
+    
+    margin-left: 200px;
+    background: transparent;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px 3px rgba(0,0,0,0.15);
+    position: relative;
+    width: 240px;
+  }
+
+.Div_results {
+  margin-top: 5px;
+  padding: 10px;
+  height: 200px;
+  width: auto;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+  
+.Div_results ul {margin: 0; padding: 0; }
+.Div_results ul .listItem {
+    list-style: none;
+    text-transform: capitalize;
+    border-radius: 3px;
+    opacity: 1;
+    cursor:pointer;
+    padding: 8px 12px;
+    transition: all .03s linear;
+}
+  
+  .listItem.clicked{
+    background: #ececec;
+  }
+
+
+  #note{
+    width:50%;
+  }
+
+  #div_submit_page{
+    margin-left: 250px;
+ }
+
+  #submit_page{
+    font-size: 20px;
+    font-weight: bold;
+    color:#004e46;
+    background-color: transparent;
+    border-radius: 10px;
+    border-color: #009688;
+    cursor:pointer;
+    text-align: center;
+    transition: background-color 0.3s linear;
+    transition: color 0.3s linear;
+}
+
+#submit_page:hover{
+  background-color: #004e46;
+  color:#ffffff;
+  transition: 0.3s;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.hide {
+  visibility:hidden;
+  display:none;
+}
