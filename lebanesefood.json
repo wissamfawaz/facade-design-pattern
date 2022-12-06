@@ -1,0 +1,948 @@
+[
+  {
+    "recipe":"Tabbouleh",
+    "ingredients":["tomato","parsley","mint","onion","olive oil","bulgur","lemon"],
+    "image": "pics/tabbouleh.png",
+    "instruction":["In a small bowl, whisk together olive oil and lemon juice until well combined. Then add the bulgur to the dressing and let it soak until it is soft and plumped, about 15 minutes.",
+    "Meanwhile, prepare the vegetables by washing, drying thoroughly and finely chopping them. When preparing the tomatoes, it helps to use a colander to drain the excess juice, which you can use in another recipe at a later time.", 
+    "Place the chopped vegetables in a large bowl. Add the optional mint. Season with salt and pepper. Then pour the bulgur and dressing mixture over. Gently toss to combine.",
+    "Serve at room temperature or cold, with lettuce if desired."],
+    "calories":"444"
+},
+{
+    "recipe":"Zaatar Manouche",
+    "ingredients":["zaatar","dough","olive oil"],
+    "image": "pics/ManoucheZaatar.jpg",
+    "instruction":["Mix the zaatar with oil",
+    "Preheat the oven to 200 degerees C",
+    "Bake in the oven for 7 min at 200 degrees C the dough with the zaatar on it", 
+    "Remove from the oven and enjoy them warm or cold"],
+    "calories":"350"
+},
+
+{
+    "recipe":"Pancakes",
+    "ingredients":["flour","milk","butter","sugar","eggs"],
+    "image":"pics/pancakes.jpg",
+    "instruction":["Sift the dry ingrediets together.",
+    "Make a well, then add the wet ingreients. Stir to combine.", 
+    "Scoop the batter onto a hot griddle or pan.", 
+    "Cook for two or three minutes, the fip.",
+    "Continue cooking until brown on both sides."],
+    "calories":"149"
+},
+{
+    "recipe":"Mac and cheese",
+    "ingredients":["pasta","cheese","butter","flour"],
+    "image":"pics/macAndCheese.jpg",
+    "instruction":["Boil water with salt",
+    "While waiting for the water to boil melt the butter in a pan and add the flour with cheese and spices to make the delicious sauce",
+    "add the pasta in the boiled water then drain the water and combine the pasta with the sauce"],
+    "calories":"250"
+},
+{
+    "recipe":"Chicken Shawarma sandwich",
+    "ingredients":["chicken","bread","garlic","oil","pickles"],
+    "image":"pics/chickenShawarma.jpg",
+    "instruction":["Mix the chicken with the shawarma spices", 
+    "Heat up the pan with oil",
+    "Add the chicken to the pan and let them cook",
+    "Open the flat bread and add garlic sauce then add the chicken"],
+    "calories":"517"
+},
+{
+    "recipe":"Lasagna",
+    "ingredients":["meat","onion","garlic","tomato","lasagna","cheese"],
+    "image":"pics/Lazagna.jpg",
+    "instruction":["Preheat the oven to 200 degerees C",
+    "Boil water with salt",
+    "Chop the onions and garlic add small and pepper",
+    "Add the meat with the garlic and onions in a pan with olive oil until the meat is cooked",
+    "Mix the tomato sauce in the pan",
+    "Put the pasta in the boiled water",
+    "Add all the ingredients in a pan in layers having cheese as a top layer and insert them in the oven until the cheese has melted on top."],
+    "calories":"355"
+},
+{
+    "recipe":"meat zucchini",
+    "ingredients":["zucchini","rice","meat","tomato"],
+    "image":"pics/koussa.jpg",
+    "instruction":["Empty the zucchinis from the middle",
+    "Mix the meat , rice and tomato with salt and pepper in a bowl",
+    "Insert the mixture in the zucchinis and add them in a pot filled with water",
+    "Wait for the water to boil and it is done!"],
+    "calories":"470"
+},
+{
+    "recipe":"rice and chicken",
+    "ingredients":["rice","meat","chicken"],
+    "image":"pics/rezAaDjej.jpg",
+    "instruction":["Wash the rice",
+    "Prepare chicken browth by boiling the chicken in a pot",
+    "Mix the clean rice with ham and add them in a pot filled with chicken browth, wait until the water evaporates and you can serve it with chicken"],
+    "calories":"300"
+},
+{
+    "recipe":"rice and meat",
+    "ingredients":["rice","meat"],
+    "image":"pics/rezzAaLahme.jpg",
+    "instruction":["Wash the rice",
+    "Mix the clean rice with ham and add them in a pot filled with water, wait until the water evaporates"],
+    "calories":"270"
+},
+{
+    "recipe":"hot chocolate",
+    "ingredients":["milk","cocoa powder","sugar","vanilla"],
+    "image":"pics/hotChocolate.jpg",
+    "instruction":["add cocoa powder and milk powder in a cup with boiling water and mix well!",
+    "If you want you can add sugar:)"],
+    "calories":"194"
+},
+{
+    "recipe":"marble cake",
+    "ingredients":["eggs","vanilla","sugar","oil","milk","flour","baking powder","cocoa powder"],
+    "image":"pics/marbleCake.jpg",
+    "instruction":["lace your colored cake batters near your baking pan. Take 1/3 of the first colored batter and scoop it with a large spoon into your pan in a down-up-down pattern. If you're using a small loaf pan (as shown here), use three large dollops of batter. If you're using a round tube or bundt pan, drop dollops of batter in the same pattern--down, up, down-- all the way around the pan.",
+    "Take 1/3 of your second colored batter. Scoop a dollop of the batter into each of the empty spaces to create a rough checkerboard pattern on the base of the pan. 1/3 of your total batter should be used at this point.",
+    "With the second 1/3 of the batter, create a second checkerboard pattern on top of the first. Alternate colors-- meaning, if a light colored square is on the bottom, put a dark colored square on top",
+    "Repeat the pattern for a third and final layer with all the remaining batter. You should have three checkerboard layers in your baking pan now.",
+    "Take your butter knife and swirl it through the batter, making rounded vertical zig-zags from one side of the pan to the other.",
+    "Wipe the excess batter from the knife. Repeat the swirling pattern in the opposite direction. If you're using a loaf pan, make long horizontal swirls. If you're using a round tube or bundt pan, swirl opposing zig-zags all the way around the pan to create a chain shaped swirl.",
+    "Now your cake is marbled and ready to bake! When it's baked, cooled, and sliced, you'll see nice, evenly marbled patterns. Your cake will have its own unique variations."],
+    "calories":"416"
+},
+{
+    "recipe":"crab and caviar salad",
+    "ingredients":["pasta","oil","crab","cucumber","soy sauce","mayonnaise","lettuce","caviar"],
+    "image":"pics/crabSalad.jpg",
+    "instruction":["Boil water with salt and oil",
+    "Cut the cucumbers and lettuce",
+    "mix the crab with mayonaise and soy sauce",
+    "add the pasta in the boiled water then drain the water and combine the pasta with the crab and vegetables",
+    "top with caviar"],
+    "calories":"381"
+},
+{
+    "recipe":"french toast",
+    "ingredients":["toast","butter","eggs","milk"],
+    "image":"pics/frenchToast.jpg",
+    "instruction":["Mix eggs and milk in a bowl",
+    "Preheat the pan with butter",
+    "Add the toast in the mixture from both sides and then fry it on the pan for 2 minutes on each side or till it is golden in color"],
+    "calories":"229"
+},
+ {
+    "recipe":"green beans in oil",
+    "ingredients":["green beans","garlic","tomato","olive oil","onion"],
+    "image":"pics/loubiehBZeit.jpg",
+    "instruction":["Put the green beans in a pot with water and put it on the stove and wait it to boil",
+    "Cut the garlic and onions into small cubes",
+    "Put the garlic and onions in a pan with olive oil and add tomato sauce",
+    "Remove the green beans from the pot and mix it with the sauce",
+    "Serve it cold or hot with pita bread on the side"],
+    "calories":"425.4"
+}, 
+  {
+    "recipe":"fattoush",
+    "ingredients":["lettuce","cucumber","tomato","olive oil","lemon","parsley","onion"],
+    "image":"pics/fattoush.jpg",
+    "instruction":["Wash all your vegetables",
+    "Chop lettuce onions tomatoes parsley and cucumbers",
+    "Squeeze the lemon and add salt pepper and olive oil",
+    "Mix everything together"],
+    "calories":"109"
+}, 
+ {
+    "recipe":"cinnamon rolls",
+    "ingredients":["butter","eggs","milk","flour","sugar","yeast","vanilla","cinnamon"],
+    "image":"pics/cinnamonRolls.jpeg",
+    "instruction":["Preheat the oven to 200 degerees C",
+    "Brush a 9 inch square baking dish with 2 tablespoons of melted butter",
+    "Whisk flour, 2 tablespoons white sugar, baking powder, and salt together in a large bowl. Work 3 tablespoons softened butter into flour mixture using your hands.",
+    "Beat milk and egg together in another bowl; pour into flour butter mixture, and stir with rubber spatula until a soft dough forms",
+    "Turn dough out unto a floured workspace and roll diugh into 1/4 inch thick rectangle. Brush surface of dough with 2 tablespoons melted butter",
+    "Whisk half cup sugar and cinnamon together in a small bowl. Sprinkle the remaining cinnamon suger over butter-brushed dough.",
+    "Roll dough around filling to foem a log; cut loh into 18 rolls and place rolls in the prepared baking dish.",
+    "Bake in the preheated oven until rolls are set, 20 to 25 minutes.",
+    "Bear confectioners' sugar, cream cheese, 1/4 cup softened butter, and vanilla extract togeter i a bowl until frosting smooth.",
+    "Top hot cinnamon rols with cream cheese frosting."], 
+    "calories":"436"
+}, 
+ {
+    "recipe":"crispy chicken burger",
+    "ingredients":["lettuce","chicken","tomato","bread","mayonnaise","pickles"],
+    "image":"pics/chickenBurger.jpg",
+    "instruction":["Wash the breasts thoroughly. If they are very thick then, slice them evenly, and trim to a round shape.",
+    "Heat oil in a pan on a medium high flame. When the oil is hot enough, deep fry them on both sides fliping as needed.",
+    "Transfer them to a kitchen tissue",
+    "Slice the burger buns, toast them. Place the patty over the bun.",
+    "Slice the tomatoes lettuce and onions and place them on the chicken.",
+    "Add the mayonnaise and the ketchup unto the buns and top it off with the other buns."],
+    "calories": "812"
+}, 
+ {
+    "recipe":"chocolate brownies",
+    "ingredients":["eggs","cocoa powder","butter","oil","vanilla","flour","sugar"],
+    "image":"pics/chocolateBrownies.jpg",
+    "instruction":["Preheat the oven to 350.",
+    "Mix sugar, flour, melted butter, eggs, cocoa powder, vanilla, baking powder, and sugar in a large bowl until combined. Spread the batter into the prepared pan.",
+    "Bake in the preheated oven until top is dry and edges have started to pull away from te sides of the pan, about 20 to 30 minutes; cool before slicing into squares."],
+    "calories":"466"
+},
+{
+    "recipe":"chicken burrito",
+    "ingredients":["chicken", "beans","corn","cheese","guacamole"],
+    "image":"pics/chickenBurrito.jpg",
+    "instruction":["Mix seasoning igredients, drizzle 1 tablespoon oil over chicken, mix to coat. Sprinkle with seasoning, toss to coat.",
+    "Heat 1 tablespoon oil in a large skillet over high heat. Add chicken, cook for 2 minutes. Turn amd cook for 15 minutes. Removee, reat for 2 minutes then chop them.",
+    "In the same skillet, add onion and garlic, cook for 1 minute. Add capsicum, cook for 2 minutes until onion is translucent.",
+    "Add diced chicken and water. Stir and cook for 2 minutes until reduces slightly.",
+    "Gently warm tortillas in microwave, then lay on work surface,",
+    "Place rice on lower third, top with chicken filling, corn, guacamole, and cheese then sprinkle with coriander, fold it up burrito style "],
+    "calories":"886"
+},
+ {
+    "recipe":"garlic bread",
+    "ingredients":["bread","garlic","cheese","butter"],
+    "image":"pics/garlicBread.jpg",
+    "instruction":["Preheat vn to 170 degrees C",
+    "Cut the loaf in half, horizontally. Mix the butter, garlic, and parsley together in a small bowl. Spread butter mixture over the two bread halves.",
+    "Place on a sturdy baking pan and heat it for 10 minutes,",
+    "Remove the pan from oven Sprinkle parmesan cheese over the bread and retuen it in the oven for 2 to 3 minutes until the edges bread begin to toast and the cheese bubbles.",
+    "Remove from oven, let it cool for a minute. Remove the bread from oan and use a bread knife to cut into 1 inch thick slies, and serve immediately."],
+    "calories":"350"
+},
+ {
+    "recipe":"pesto pasta",
+    "ingredients":["pasta", "onion","pesto","cheese","oil"],
+    "image":"pics/pestoPasta.jpg",
+    "instruction":["Fill a large pot with lightly salted water and bring to a rollng dip. Stir in pasta and return to a boil.",
+    "Cook pasta uncovered, stirring occasonally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl.",
+    "Heat oi in frying pan over medium-low heat. Add onion; cook and stir until softened, about 3 minutes, Stir in pesto, salt, and pepper until warmed through.",
+    "Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat."],
+    "calories":"263"
+},
+{
+    "recipe":"Fattet hummus",
+    "ingredients":["hummus", "laban","bread","tahini","garlic","olive oil"],
+    "image":"pics/fatitHummus.jpg",
+    "instruction":["Start by washing and draining the chickpeas and then placing them in a apot covered with water and simmer on medium heat.",
+    "Next cut the pita bread into small squares, drizzle with olive oil and season with salt and a bit of sumac.",
+    "Air fry them until golden brown.",
+    "To make the sauce, mix together the yogurt, tahini, garlic, and seasoning until well combined and smooth.",
+    "Prepare the garnish by chopping the parsley.",
+    "Layer the fettet just before serving by starting with pita bread, then the drained chickpeas, then the yogurt sauce, and finally drizzle a bit of olive oi with garlic and serve."],
+    "calories":"165"
+},
+ {
+    "recipe":"quinoa salad",
+    "ingredients":["quinoa", "tomato","cucumber","lemon","olives","oil"],
+    "image":"pics/quinoaSalad.jpg",
+    "instruction":["Place the quinoa in a fine-mesh strainer and rince under cold water, and then drain.",
+    "For one cup of quinoa, you need 2 cups of liquid, water.",
+    "In a medium saucepan, combine water, the rinced quinoa, and salt. Bring to a boil. Reduce heat to low and cover wit a lid. Cook for 15 minutes.",
+    "Remove from heat and let stand for 5 minutes, then in a small bowl whisk together the olive oil, garlic, lemon juice, salt and pepper.",
+    "In another large bowl, combine the  quinoa, cucumber, tomatoes, and olives.",
+    "Drizzle salad dressing amsand stir until the salad is cated with the dressing and serve"],
+    "calories":"188"
+},
+{
+    "recipe":"escalope chicken",
+    "ingredients":["chicken", "bread crumbs","herbs","eggs","flour"],
+    "image":"pics/escalopeChicken.jpg",
+    "instruction":["Put the chicken breast with cling film, and using a rolling pin beat the chicken breasts out to an even thickness.",
+    "Put the flour on a plate and add salt and pepper. Whisk the egg together in a small bowl. And on another plate mix together the bredcrumbs and parsley.",
+    "Dip chicken breast in the four and tap off any excess, the dip it in the egg to coat completely; finally. dip in the breadcrumb mixture and set aside.",
+    "Heat the butter and oil in a frying pan. Fry the breasts over a amedium heat for 3 to 4 minutes on eac side, then drain on kitchen paper before serving.",
+    "Serve with BBQ sauve and ketchup as a dip."],
+    "calories":"165"
+},
+ {
+    "recipe":"Avocado toast",
+    "ingredients":["avocado", "toast","chili flakes","lemon","oil"],
+    "image":"pics/avocadoToast.jpg",
+    "instruction":["In a small bowl, combine avocado, lemon juice, salt and pepper. Mash with the back of the fork.",
+    "Top toasted bread with mashed avocado mixture. Drizzle with olive oil and sprinkle over desired toppings, and serve."],
+    "calories":"254"
+},
+  {
+    "recipe":"omelette",
+    "ingredients":["eggs", "butter","tomato","cheese","herbs"],
+    "image":"pics/omelette.jpg",
+    "instruction":["Beat the eggs lightly with a fork.",
+    "Melt the butter over medium heat and keep the temperature low.",
+    "Let the eggs sit for a minute then use a heatproof silicone spatula to gently lift the cooked eggs from the edges of the pan.",
+    "Tilt the pan to allow the uncooked egga to flow to the edge of the pan.",
+    "Add the filling of tomatoes, cheese, amd herbs when the eggs begin to set. Cook for a few more seconds.",
+    "Fold the omelette in half and slide with te help of a silicone spatula."],
+    "calories":"154"
+  },
+  {
+    "recipe":"Lemon squares",
+    "ingredients":["lemon","sugar","powdered sugar","butter","eggs","flour","baking powder"],
+    "image":"pics/lemonSquares.jpg",
+    "instruction":["Preheat oven to 350°. In a large bowl, combine the flour, confectioners' sugar and salt. Cut in butter until crumbly. Pat into a greased 15x10x1-in. baking pan. Bake 16-20 minutes or until set and top is golden brown.",
+    "For topping, combine the eggs, sugar, lemon juice, baking powder and salt in a bowl. Pour over crust (pan will be full). Bake 16-20 minutes or until set and top is golden brown. Cool. Dust with confectioners' sugar. Cut into squares."],
+    "calories":"145"
+  },
+  {
+    "recipe":"Powdered chocolate cookies",
+    "ingredients":["powdered sugar","cocoa powder","flour","eggs","butter","vanilla","baking powder"],
+    "image":"pics/powderedChocolateCookies.jpg",
+    "instruction":["Preheat the oven to 350.",
+    "Mix sugar, flour, melted butter, eggs, cocoa powder, vanilla, baking powder, and sugar in a large bowl until combined. Spread the batter into the prepared pan.",
+    "round-shape the cookies like balls and sprinkle with powdered sugar","Bake in the preheated oven until top is dry, about 20 to 30 minutes"],
+    "calories":"470"
+  },
+  {
+    "recipe":"Chicken Caesar",
+    "ingredients":["chicken","lettuce","parmesan","croutons","dijon mustard","mayonnaise","lemon","olive oil"],
+    "image":"pics/chickenCaesar.jpg",
+    "instruction":["Place all dressing ingredients in a bowl and whisk well. Store in the fridge until you finish the remainder of the salad.",
+    "Wash and clean the lettuce well. Place on a rack or kitchen towel to dry while you prepare the chicken.",
+    "Fry the chicken","In a large dish, place the lettuce on the bottom. Then add the chicken and croutons. Pour over some extra dressing if needed and top with shaved parmesan cheese."],
+    "calories":"295"
+  },
+  {
+    "recipe":"Nacho cheese",
+    "ingredients":["cheese","cheddar","nachos"],
+    "image":"pics/nachoCheese.jpeg",
+    "instruction":["melt the cheddar or any sorts of cheese by placing cheese in a bowl inside a casserole filled with hot water","place the nachos and top with melted cheddar"],
+    "calories":"250"
+  },
+  {
+    "recipe":"Asian Shrimps",
+    "ingredients":["cornstarch","shrimps","pineapple","green beans","soy sauce","bell pepper","rice","sesame","olive oil","onion","hoisin sauce","garlic"],
+    "image":"pics/asianShrimps.jpg",
+    "instruction":["Whisk pineapple juice, hoisin sauce, soy sauce, and cornstarch together in a small bowl until well combined; set aside.",
+    "Drizzle vegetable and sesame oils around the top of a wok or large skillet to coat the sides. Heat over medium-high heat for 1 minute. Pat shrimp dry with a paper towel and add to wok. Stir-fry for 1 minute on each side and transfer cooked shrimp to a clean plate.",
+    "Add pineapple, bell pepper, onion, and stir-fry for 2 to 3 minutes. Stir in garlic and bell pepper flakes, and cook until fragrant, about 30 seconds.",
+    "Return shrimp to the wok, and stir-fry an additional 2 minutes. Whisk stir-fry sauce a couple of times and pour over shrimp and vegetables, stirring constantly until thickened, about 1 minute."],
+    "calories":"306"
+  },
+  {
+    "recipe":"Apple pie",
+    "ingredients":["flour","butter","eggs","sugar","apple","lemon","cinnamon"],
+    "image":"pics/applePie.jpg",
+    "instruction":[" Peel the apples, discard the cores, and cut into slices about 1 inch thick. Place apple slices in a bowl and add cinnamon, sugar, and lemon juice. Toss to combine.",
+    "Combine the flour, salt, and sugar in a large bowl. Add the butter, and work it between your fingers until there are no large pieces left","Turn the dough out onto a clean work surface, and add the ice water and vinegar. Comb through the dough with your fingers until well-combined, then begin to knead the dough. Only do this a few minutes; dough will not look smooth or stretchy. Divide, and form into two shaggy discs, about 1-inch thick. Wrap pie dough in plastic wrap, and refrigerate for at least two hours.",
+    "Preheat oven to 375°F. Remove one disc of dough from refrigerator and roll out to fit a 9-inch pie plate or pie pan. Fit the dough into the bottom of the dish, and blind-bake until beginning to brown. Allow to cool.",
+    "Roll out the second disc of dough. When the blind-baked crust has cooled, add the filling, and top with second crust. Crimp edges together with your fingers or the tines of a fork, and seal with egg wash. Cut slits in the top crust to allow steam from the filling to escape, and brush lightly with egg wash. Top with a sprinkle of Demerara sugar if desired.",
+    "Bake pie 40 minutes, or until crust is a deep, burnished golden brown, rotating once halfway through.","Remove from oven, and let cool at least 30 minutes before cutting. Serve with whipped cream or ice cream, or for an extra decadent treat, serve with both!"],
+    "calories":"411"
+  },
+  {
+    "recipe":"Sangria",
+    "ingredients":["red wine","apple","orange juice","lemon"],
+    "image":"pics/Sangria.jpg",
+    "instruction":["Cut the fruits into small cubes and combine then with wine.", 
+    "add orange juice"],
+    "calories":"200"
+  },
+  {
+    "recipe":"mashed potatoes",
+    "ingredients":["potato","olive oil","eggs","milk"],
+    "image":"pics/mashedPotatoes.jpg",
+    "instruction":["boil the potatoes for 1 hour","peel the potatoes","with a fork, smash the potatoes until they look fluffy","add olive oil, salt and pepper for tastiness","add milk for a more creamy dish, you can also add eggs aside"],
+    "calories":"237"
+  },
+  {
+    "recipe":"Caramel Cream",
+    "ingredients":["sugar","milk","eggs","vanilla"],
+    "image":"pics/caramelCream.jpg",
+    "instruction":["Preheat oven to 325 degrees. Place eight 4-ounce ramekins in a large roasting pan. Add 4 tablespoons water to a small pot. Add 1 cup sugar and stir to dissolve. Cook over medium-high, swirling occasionally, until caramel begins to turn amber, 6 to 8 minutes. Working quickly, divide caramel between ramekins, swirling ramekins to coat bottoms evenly, set aside.",
+    "In a medium pot, heat milk over medium until hot, but not boiling. In a medium bowl whisk together whole eggs and yolks, salt, and remaining 1/2 cup sugar. While whisking, ladle some milk into the egg mixture. Whisk in remaining milk, one ladle at a time. Strain through a fine sieve into a large liquid measuring cup, and stir in vanilla. Divide custard evenly among ramekins.",
+    "Transfer roasting pan to oven. Add enough boiling water to come halfway up the sides of the ramekins. Bake until custards are just set, about 35 minutes.",
+    "With tongs, remove ramekins from hot water and let cool slightly. Cover and refrigerate until cold, at least 3 hours (or up to 3 days). To unmold, run a sharp knife around inside of each ramekins and invert onto a serving plate, gently shaking to release."],
+    "calories":"400"
+  },
+  {
+    "recipe":"dragon crab salad",
+    "ingredients":["crab","avocado","corn","apple","clementine","lettuce","mayonnaise","lemon","carrot","olive oil","lolorosso"],
+    "image":"pics/dragonCrabSalad.jpeg",
+    "instruction":["Cut the  lettuce and the lolorosso",
+    "mix the crab with mayonnaise, lemon and oil","cut the fruits",
+    "combine the crab with the fruits and vegetables"],
+    "calories":"400"
+  },
+  {
+    "recipe": "pasta salad",
+    "ingredients":["pasta","italian-style salad dressing","salad seasoning","tomato","bell pepper","olive"],
+    "image":"pics/pastaSalad.jpg",
+    "instruction":["Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 to 12 minutes; rinse under cold water and drain.",
+    "Whisk Italian dressing and salad spice mix together until smooth.",
+    "Combine pasta, tomatoes, bell peppers, and olives in a salad bowl; pour dressing over salad and toss to coat. Refrigerate salad, 8 hours to overnight."],
+    "calories":"400"
+  },
+  {
+    "recipe":"Meat Shawarma",
+    "ingredients":["meat","oil","vinegar","shawarma spice","tahini","lemon","ginger"],
+    "image":"pics/beefShawarma.jpg",
+    "instruction": ["Begin by slicing your beef into 3-inch thin slices. To make the marinade, combine the vegetable oil with the distilled white vinegar. Add the Shawarma spice, salt and black pepper. Mix them thoroughly with the meat and cover with plastic wrap and return to the fridge.",
+    "After about 6-8 hours of marinating, the beef is ready to be cooked. Sautée the beef in a skillet on medium-high heat for 10-15 minutes, until most of the juices have evaporated. Taste for seasoning.",
+    "Slice all your vegetables for your sandwich or platter (Tomatoes, small Lebanese pickles, pickled turnips)",
+    "While the beef is cooking, prepare your Tahini sauce. Crush 1 large or 2 small cloves of garlic with a ½ tsp of salt. Add the Tahini, freshly squeezed lemon juice and water. Whisk until fully combined. Tahini paste has a very strange texture when you first begin to whisk it. You will notice it starts to get thicker and clumpy but, just keep whisking, and it will get silky and smooth.",
+    "To make your sandwich, open up a pita and arrange the beef and all your fixings. Drizzle the Tahini sauce on top."],
+    "calories":"284"
+   },
+   {
+    "recipe":"chicken curry",
+    "ingredients":["curry powder","garlic","ginger","coriander","coconut milk","chicken","peas","chicken","onion"],
+    "image":"pics/chickenCurry.jpg",
+    "instruction":["Heat oil in a skillet over medium high heat. Cook garlic, ginger and onion for 3 minutes until onion is translucent.",
+    "Add chicken and cook until it it changes from pink to white.",
+    "Add curry powder and cook for 2 minutes.",
+    "Add coconut milk and chicken stock. Stir, lower heat to medium and cook, simmering rapidly, for 10 minutes until sauce reduces and thickens.",
+    "Add peas and salt. Cook for a further 2 minutes, then taste to see if it needs more salt. Garnish with coriander.",
+    "Serve over rice, noodles or mashed potato!"],
+    "calories":"383"
+  },
+ {
+    "recipe":"dynamite shrimps",
+    "ingredients":["shrimps","fish seasoning","soy sauce","eggs","flour","cornstarch","garlic powder","mayonnaise","siracha sauce","honey","tomato ketchup"],
+    "image":"pics/dynamiteShrimps.jpg",
+    "instruction":["Prepare the sauce by stirring mayonnaise, sriracha sauce, honey and tomato ketchup together and keep aside.",
+    "To the shrimp, add fish seasoning, soy sauce and egg. Mix well.",
+    "Prepare the dredging mix by combining all-purpose flour, cornflour/cornstarch, salt and garlic powder.",
+    "Heat oil for deep-frying.",
+    "Using a tong, coat each shrimp with the flour, shake off excess and drop in the hot oil.",
+    "Fry on medium high heat till it turns golden and crispy (around 3-4 minutes).",
+    "Remove into a sieve to drain off excess oil. Let cool slightly.",
+    "Add the fried shrimp to a bowl. Pour the sauce and toss until the shrimps are nicely coated.",
+    "In a small bowl or glass put some lettuce on the bottom, add the shrimps and garnish with chopped green part of spring onion (or chives), black and white sesame seeds."],
+    "calories":"527"
+  },
+  {
+    "recipe":"pepperoni pizza",
+    "ingredients":["dough","tomato sauce","pepperoni","cheese","oregona","flour","tomato sauce"],
+    "image":"pics/pepperoni.png",
+    "instruction":["Preheat oven to 500°F. If you are using a pizza stone, preheat it in the oven for at least 20 minutes so it is nice and hot as well.",
+    "If you are using my sauce recipe, stir together the ingredients. The sauce recipe makes just enough for one large pizza. You can easily double it if you are making more than one pizza.",
+    "Roll out dough on a lightly floured surface. If it's hard to roll, let it rest for 5 minutes so it can come to room temperature. For a large pizza, I like to roll my dough into about a 14-inch diameter circle.",
+    "Transfer the dough to a lightly dusted pizza peel. Alternatively, fit it into a large cast-iron.",
+    "Add sauce in a light layer all over the pizza, leaving about 1/4-inch crust around the edges. Chop half of the pepperoni and sprinkle it over the sauce. Top the pizza with grated cheese and the rest of the pepperoni. Season with black pepper.",
+    "If you're using a pizza stone, carefully slide pizza into the center of the preheated pizza stone. Cook for 6 minutes, then rotate the pizza halfway so it cooks evenly. Cook for another 6-8 minutes, or until the crust is golden brown and charred in spots.",
+    "If you're using a skillet, press the dough into a cast iron skillet and add toppings. Place the skillet over a high heat burner for 2 minutes to get it preheated and get the crust cooking right away. Then transfer to a 500 ̊F oven and bake for 10 to 12 minutes, or until the crust is golden brown.",
+    "Use pizza peel to slide pizza out onto a cutting board. Let the pizza rest for a minute and slice into pieces. Season with fresh oregano (optional). Serve while warm with a side salad."],
+    "calories":"2320"
+  },
+  {
+    "recipe":"whiskey sour",
+    "ingredients":["bourbon whiskey","lemon","maple syrup","orange"],
+    "image":"pics/whiskeySour.jpg",
+    "instruction":["Add the bourbon whiskey, lemon juice, and syrup to a cocktail shaker. Fill with a handful of ice and shake until very cold.",
+    "Strain the drink into a lowball or Old Fashioned glass. Serve with ice, an orange peel and a cocktail cherry. "],
+    "calories":"150"
+  },
+  {
+    "recipe":"classic margarita",
+    "ingredients":["tequila","cointreau","lime","sea salt"],
+    "image":"pics/classicMargarita.jpg",
+    "instruction":["Cut a notch in a lime wedge, then run the lime around the rim of a glass. Dip the edge of the rim into a plate of salt (or for a festive look, use our Margarita Salt).",
+    "Place all ingredients in a cocktail shaker with 4 ice cubes and shake until cold.",
+    "Strain the margarita into the glass with the salted rim. Fill the glass with ice and serve.",
+    "Pitcher (8 servings): Place 1 ½ cups tequila, 1 cup Cointreau or Triple Sec, and ¾ cup lime juice in a pitcher. Add 3 handfuls ice and stir until cold."],
+    "calories":"166"
+  },
+  {
+    "recipe":"tom collins cocktail",
+    "ingredients":["dry gin","maple syrup","lemon","soda water","ice"],
+    "image":"pics/tomCollins.jpg",
+    "instruction":["Add the gin, syrup and lemon juice to a cocktail shaker with 4 ice cubes. Shake well until chilled.",
+    "Strain the liquid into an ice filled glass, and top off the glass with soda water. Garnish with a lemon wheel and cocktail cherry."],
+    "calories":"239"
+  },
+  {
+    "recipe":"classic mojito",
+    "ingredients":["mint","lime","syrup","white rum","soda water"],
+    "image":"pics/classicMojito.jpg",
+    "instruction":["In a cocktail shaker, muddle the mint leaves. (Here’s how to muddle mint.)",
+    "Add the lime juice, simple syrup, and rum. Fill the cocktail shaker with ice and shake until cold.",
+    "Place ice into a glass, and strain in the liquid. Top off the glass with soda water. Garnish with additional mint leaves."],
+    "calories":"188"
+  },
+  {
+    "recipe":"gin fizz cocktail",
+    "ingredients":["gin","lemon","syrup","eggs"],
+    "image":"pics/ginFizz.jpg",
+    "instruction":["Place the gin, lemon juice, syrup and egg white in a cocktail shaker. Shake vigorously for 15 seconds.",
+    "Fill the shaker with ice and shake for 30 seconds until cold.",
+    "Strain the drink into a glass and top with the soda water; the egg white foam forms on top. If desired, garnish with a lemon twist. Serve immediately."],
+    "calories":"82"
+  },
+  {
+    "recipe":"moscow mule",
+    "ingredients":["vodka","lime","ginger beer"],
+    "image":"pics/moscowMule.jpg",
+    "instruction":["Pour the vodka, lime juice, and ginger beer into a copper mug.",
+    "Add ice and garnish with a lime slice. Serve immediately."],
+    "calories":"139"
+  },
+  {
+    "recipe":"gin and tonic",
+    "ingredients":["gin","tonic water","lime"],
+    "image":"pics/ginTonic.jpg",
+    "instruction":["Add lots of ice to a large cocktail or wine glass and stir to chill the glass. Drain any melted water.",
+    "Pour in the gin. Add the garnishes. Pour the tonic water onto a bar spoon into the glass (to increase the bubbles). Stir once and serve."],
+    "calories":"170"
+  },
+  {
+    "recipe":"new york sour",
+    "ingredients":["bourbon whiskey","lemon juice","maple syrup","red wine","lemon"],
+    "image":"pics/newYorkSour.jpg",
+    "instruction":["Add the bourbon whiskey, lemon juice, and syrup to a cocktail shaker and fill it with a handful of ice. Shake until very cold.",
+    "Strain the drink into an ice-filled lowball or Old Fashioned glass.",
+    "Carefully pour the red wine over the back of a spoon just above the surface of the drink, creating a layer on top. Serve with a lemon twist if desired."],
+    "calories":"222"
+},
+{
+"recipe":"Shrimp tempura",
+"ingredients":["shrimps","avocado","rice","sesame oil","vinegar","cucumber","sesame","soy sauce","nori","eggs","flour"],
+"image":"pics/shrimpTempura.jpg",
+"instruction":["emove the vein from the shrimp, and use a knife to cut some slits in the underside of the shrimp to prevent them from curling up while cooking.",
+"combine an egg yolk with 1 cup cold water.","add 1 cup flour to the egg mixture.","Coat the shrimp in flour.",
+"dip the shrimp in the tempura batter.","Heat up oil to 177 °C. Use a pan or a deep-fryer to heat up any type of cooking oil, such as sesame oil or canola oil. Make sure you have enough oil to submerge the shrimp.",
+"fry the shrimp.","cook the rice in water. After it's fully cooked, set it aside to cool. While the rice is cooling, heat up the rice vinegar, salt, and sugar in a pot and mix them together.","Prepare any other fillings you'll be using.",
+"Cover your sushi mat with plastic wrap and set the nori on top of it.","Coat the nori with rice. Make sure the rice is layered thinly and relatively evenly, and leave a small strip of nori uncovered (about 13 to 25 mm so that the roll will close successfully.",
+"Flip the rice-covered nori","place the tempura and other fillings on the nori","Roll your sushi. Grab the sushi mat from both ends and wrap the end with rice over the inch that doesn’t have any rice on it. Apply pressure to seal the roll"],
+"calories":"419"
+},
+{
+   "recipe":"Margherita Pizza",
+   "ingredients":["dough","cheese","tomato sauce"],
+   "image": "pics/margheritaPizza.jpeg",
+   "instruction":["Spread the tomato sauce on the precooked dough. ",
+   "Distribute the cheese over the dough, focusing on the center.", 
+   "Bake till crust is golden and cheese is melted."],
+   "calories":"1200"
+},
+{
+   "recipe":"Vegetarian Pizza",
+   "ingredients":["dough","cheese","onion","olives","tomato sauce"],
+   "image": "pics/veggetarianPizza.jpeg",
+   "instruction":["Spread the tomato sauce on the precooked dough.",
+   "Distribute the cheese over the dough, focusing on the center. Add all the toppings ", 
+   "Bake till crust is golden and cheese is melted. "],
+   "calories":"2200"
+},
+{   
+"recipe":"BBQ Chicken Pizza",
+"ingredients":["dough","cheese","chicken", "bbq sauce","tomato sauce"],
+"image": "pics/bbqChickenPizza.jpeg",
+"instruction":["Spread the tomato and the bbq sauce  on the precooked dough","Cook the chicken" ,
+"Distribute the cheese over the dough, focusing on the center. Add all the toppings ", 
+"Bake till crust is golden and cheese is melted."],
+"calories":"1760"
+},
+{
+"recipe":"Hawaiian Pizza",
+"ingredients":["dough","cheese","pineapple","tomato sauce"],
+"image": "pics/hawaiianPizza.jpeg",
+"instruction":["Spread the tomato sauce on the precooked dough",
+"Distribute the cheese over the dough, focusing on the center. Add all the toppings ", 
+"Bake till crust is golden and cheese is melted.the add the pineapple toppings "],
+"calories":"2080"
+},
+{
+"recipe":"Buffalo Pizza",
+"ingredients":["dough","cheese","chicken","buffalo","tomato sauce","flour"],
+"image": "pics/buffaloPizza.jpeg",
+"instruction":["Spread the tomato sauce on the precooked dough","Cook the chicken" ,
+"Distribute the cheese over the dough, focusing on the center. Add all the toppings ", 
+"Bake till crust is golden and cheese is melted."],
+"calories":"2209"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"recipe":"grilled pineapple shrimps skewers",
+"ingredients":["pineapple","shrimps","fish seasoning","olive oil","lemon"],
+"image":"pics/pineappleShrimps.jpg",
+"instruction":["marinate the shrimps with olive oil, lemon juice, fish seasoning and salt, and set them aside ",
+              " cut the pineapple into small cube, ",
+              " on each skewer alternate pineapple and shrimps",
+              " grill them 2 minutes on each side or until shrimp is ready." ], 
+"calories":"330"
+},
+
+{
+"recipe":"sweet and spicy pineapple shrimp stir fry",
+"ingredients":["pineapple","shrimps","fish seasoning","olive oil","bell pepper","onion","bbq sauce"],
+"image":"pics/shrimppineapplespicy.png",
+"instruction":["sizzle the pan with olive oil and spread the seasoned shrimps (salt and fish seasoning) accross it and let it cook for 1 minute then flip, ",
+              "when the shrimp is ready remove to a plate",
+              "reduce heat toss cutted bell pepper and chopped onion and cook them until barely softenened",
+              "then add the pineapple and let them soft slightly.",
+              "Add the bbq sauce, when it starts to simmer return the shrimps about a minute as the sauce thickens slightly"
+              ], 
+"calories":"144"
+},
+{
+"recipe":"kishk",
+"ingredients":["kishk","garlic","butter"],
+"image": "pics/kishk.png",
+"instruction":["cut the garlic into small pieces, and stir fry with butter.",
+              "Add kishk and warm water mix and boil"],
+"calories":"200"
+},
+{
+"recipe":"kishk Manouche",
+"ingredients":["kishk","dough","sesame","tomato","onion","oil"],
+"image": "pics/kishkmanouche.png",
+"instruction":["Mix the kishk with oil, cruched tomato, onion and sesame",
+"Preheat the oven to 200 degerees C",
+"Bake in the oven for 7 min at 200 degrees C the dough with the kishk mix on it", 
+"Remove from the oven and enjoy them warm or cold"],
+"calories":"350"
+},
+{
+"recipe":"cheese manouche",
+"ingredients":["dough","cheese"],
+"image":"pics/cheesemanouche.png",
+"instruction":["Preheat the oven to 200 degerees C",
+"Bake in the oven for 7 min at 200 degrees C the dough with the cheese on it", 
+"Remove from the oven and enjoy them warm or cold"],
+"calories":"300"
+},
+
+{
+"recipe":"pasta carbonara",
+"ingredients":["pasta","bacon","eggs","cheese"],
+"image":"pics/pastacarbonara.png",
+"instruction":["Prepare the pasta.In a bowl mix cheese and egg yolk",
+              " Brown the bacon. Add the pasta into the pan  stir to mix.",
+              "Add the mix to the pan and some pasta waater and stir until commbined."],
+"calories":"322"
+},
+{
+"recipe":"Bulgur and tomato",
+"ingredients":["bulgur","tomato","onion"],
+"image":"pics/bulgurtomato.png",
+"instruction":["Slice the onion into small cube and stir fry them add smashed tomato, salt and pepper ",
+              "when simmer add bulgur and let it till dry. 15 to 20 min"],
+"calories":"144"
+},
+{
+"recipe":"eggplant and meat",
+"ingredients":["eggplant","onion","tomato sauce","meat", "rice"],
+"image":"pics/eggplantmeat.png",
+"instruction":["First prepare the eggplant by peeling them, then deep fry, keep them apart. ",
+              "Slice the onion into small cube and stir fry until tender, add the minced meat, salt and pepper",
+              "cook until well done.",
+              "Make an incision in the eggplant and fill it with the stuffing. Place them in the casserole and ",
+            " cover them with tomato sauce, then simmer. Present it with cooked rice."],
+"calories":"178"
+},
+
+{
+"recipe":"fried eggplant",
+"ingredients":["eggplant","oil"],
+"image":"pics/friedeggplant.png",
+"instruction":["Cut the eggplant in round slices, salt them, let them rest for 30 min then deep fry."],
+"calories":"357"
+},
+{
+"recipe":"fried zucchini",
+"ingredients":["zucchini","oil"],
+"image":"pics/friedzucchini.png",
+"instruction":["Cut the zucchini in round slices, then deep fry."],
+"calories":"330"
+},
+
+{
+"recipe":"eggs and potatoes",
+"ingredients":["eggs","potato"],
+"image":"pics/potatoeggs.png",
+"instruction":["Cut the potatoes into small cube and fry them and put them in a pan",
+              " in bowl mix the eggs with salt and pepper then add the mixture to the fried potatoes",
+              "stir fry while mixing until the egg is done."],
+"calories":"235"
+},
+{
+"recipe":"shish barak",
+"ingredients":["dough","meat", "onion","garlic","laban", "garlic","cornstarch"],
+"image":"pics/shishbarak.png",
+"instruction":["Cut the oninon into small cubes and stir fry them until tender, toss the minced meat and cook them until well done.", 
+              "add salt and pepper.",
+              " Cut the the dought into small circles and fill them with the onion meat mixture and close them.",
+              " Cook the filled dough in the oven until light brown. ",
+              " In a casserole roste the garlic, then add laban cornstrach mixture and cook till simmer ",
+            " in the plate combine cooked dough and laban"],
+"calories":"338"
+},
+{
+"recipe":"Pasta tagliatelle",
+"ingredients":["butter", "pasta", "mushroom", "onion", "garlic", "parsley", "parmesan", "white wine", "sprinkle"],
+"image":"pics/pasta-tagliatelle.jpg",
+"instruction":["Start with melting the butter with olive oil in a large frying pan on medium-high heat. Sauté the onion until soft.",
+" Add the garlic and sauté another minute. Then add the mushrooms. Cook until soft. Add white wine and cook until it reduces by half. Simmer for 5 minutes, then add the parsley and season with salt and pepper.",
+" Add the pasta, toss with the sauce, and sprinkle with Parmesan cheese."],
+"calories":"403"
+},
+{
+"recipe":"sheikh el mehshi",
+"ingredients":["eggplant", "meat", "onion","tomato sauce", "nuts", "olive oil"],
+"image":"pics/sheikh-el-mehshi.jpg",
+"instruction":["Prepare the eggplants by cutting a pocket using a knife and deep fry them in a large pan saute onions till soft, then add minced meat and cook thoroughly Season with salt , cinnamon, allspice, black pepper and Lebanese 7-spices mix Add tomato paste and pine nuts. ",
+"Cook for 5 minutes Stuff the Eggplants generously. In a baking tray, spread the sauce and then add the eggplants. Cook in the oven on medium heat in the lower rack for about 20 minutes.",
+" Garish with chopped parsley "],
+"calories":"330"
+},
+{
+"recipe":"moghrabieh",
+"ingredients":["chickpeas", "onion", "moughrabieh","chicken"],
+"image":"pics/moghrabieh.jpg",
+"instruction":["Peel onions and set aside. Wash (canned) chickpeas thoroughly and allow to drain, set aside. In a pot over high heat, heat dairy-free butter and oil, stir through onions, and sweat until translucent and golden brown. Approximately 5 minutes with the lid on, stirring occasionally.",
+" In the same pot, add Moghrabieh (pearl couscous) and the stock cook for 15 minutes with the lid on, stirring occasionally to avoid moghrabieh sticking. Add chickpeas, browned onions and spices.",
+" Coat everything evenly, then add 1½ cups of stock. Turn heat to low-med, cover with a lid and cook for another 10 minutes, stirring occasionally. Serve warm, either in a bowl or in a wrap."],
+"calories":"450"
+},
+{
+"recipe":"molokhia stew",
+"ingredients":["jute leaves", "chicken","onion", "garlic", "olive oil", "rice"],
+"image":"pics/molokhia-stew.jpg",
+"instruction":["In a medium sized pot, heat one tablespoon of olive oil. Season the chicken breast with one teaspoon of salt and black pepper. Cook over high heat for about 2 minutes per side. Add the bay leaves, cloves, onion, remaining salt and about 6 cups of water.Cook on high heat until boiling, then lower the heat to medium and cook until chicken has cooked through, about 20-30 minutes. Set cooked chicken aside to cool. Once cooled, shred the chicken. Add 10 cups of the dried molokhia leaves to a large mixing bowl. Remove any stems or brown/yellow leaves. Heat up a kettle of water until just boiling, and pour over the leaves to re-hydrate them.Let soak for at least 5 minutes. Drain the water and pour the leaves into a colander over the bowl. Peel the garlic and cut in half or thirds (reserve about 5 whole cloves of garlic aside). Place in a mortar and top with a teaspoon of salt. Crush the garlic until no chunks remain. In a large deep pot, heat up ¼ cup of ghee or vegetable oil. Add chopped cilantro and crushed garlic and sauté over medium heat for 5 minutes. Add the washed and squeezed-dry molokhia, and whole cloves of garlic to the cilantro/garlic mix and sauté for about 5 minutes. Prepare the rice while the Molokhia is cooking. Add the shredded chicken, dried coriander, and lemon juice to the Molokhia stew. Taste for salt and add if needed. Let it simmer for 5 more minutes."],
+"calories":"597"
+},
+{
+"recipe":"beef strogunoff",
+"ingredients":["beef", "onion", "mushroom", "flour", "sour cream", "beef", "dijon mustard", "butter"],
+"image":"pics/beef-strogunoff.jpg",
+"instruction":["Use your fist (or rolling pin or mallet) to flatten the steaks to about 3/4cm / 1/3 thick. Slice into 5mm / 1/5 strips (cut long ones in half), discarding excess fat.",
+" Sprinkle with a pinch of salt and pepper. Heat 1 tbsp oil in a large skillet over high heat.",
+"Scatter half the beef in the skillet, QUICKLY spread it with tongs. Leave untouched for 30 seconds until browned. Turn beef quickly (as best you can!). ",
+"Leave untouched for 30 seconds to brown. Immediately remove onto a plate. Don't worry about pink bits and that it will be raw inside. Add remaining 1 tbsp oil and repeat with remaining beef.",
+"Turn heat down to medium high. Add butter, melt. Then add onions, cook for 1 minute, then add mushrooms. Cook mushrooms until golden. ",
+"Scrape bottom of fry pan to get all the golden bits off. Add flour, cook, stirring, for 1 minute. Add half the broth while stirring.",
+"Once incorporated, add remaining broth. Stir, then add sour cream and mustard. Stir until incorporated.",
+"Bring to simmer ,then reduce heat to medium low. Once it thickens to the consistency of pouring cream (3 - 5 minutes), adjust salt and pepper to taste.",
+"Add beef back in (including plate juices). Simmer for 1 minute, then remove from stove immediately. Serve over pasta or egg noodles, sprinkled with chives if desired."],
+"calories":"394"
+},
+{
+"recipe":"bamieh",
+"ingredients":["olive oil", "onion","meat", "cinnamon", "cumin", "coriander", "garlic", "tomato","okra"],
+"image":"pics/bamieh.jpeg",
+"instruction":["Heat vegetable oil in a large pot over medium heat. Stir in onion, salt, and black pepper; cook and stir until onion has softened and turned a light golden brown, about 10 minutes.",
+"Add lamb, cinnamon, cumin, coriander, and garlic paste. Cook on medium heat, stirring occasionally, until lamb starts to brown, 10 to 15 minutes.",
+"Stir in tomatoes and tomato paste; cook and stir for another 5 minutes. Dissolve beef bouillon cubes in 4 cups boiling water.",
+"Pour broth into the pot with lamb and stir in okra. If necessary, add water to cover okra. Cover and simmer for 30 minutes, stirring occasionally.",
+"Remove the cover and cook until lamb is very tender and stew reaches desired thickness, 45 minutes to 1 hour."],
+"calories":"330"
+},
+{
+"recipe":"Taco soup",
+"ingredients":["meat","taco seasoning","mild chili beans","whole kernel corn","pinto beans","tomato","green chiles","ranch salad dressing"],
+"image":"pics/tacoSoup.jpg",
+"instruction":["In a Dutch oven, cook beef over medium heat until no longer pink, breaking it into crumbles; drain.",
+"Add taco seasoning and mix well. Stir in the remaining ingredients.",
+"Bring to a boil. Reduce heat; simmer, uncovered, for 15 minutes or until heated through, stirring occasionally."],
+"calories":"370"
+},
+{
+"recipe":"Chicken & Veggie Stir-Fry",
+"ingredients":["chicken","broccoli","mushroom","sesame oil","garlic","ginger","soy sauce","brown sugar","flour"],
+"image":"pics/ChickenandVeggieStirFry.jpg",
+"instruction":["In a large pan on medium-high heat, add 1 tablespoon of oil. Once the oil is hot, add chicken, season with salt and pepper, and sauté until cooked through and browned. Remove cooked chicken from pan and set aside.",
+"In the same pan, heat 1 tablespoon of oil and add mushrooms. When the mushrooms start to soften, add broccoli florets and stir-fry until the broccoli is tender. Remove cooked mushrooms and broccoli from the pan and set aside.",
+"Add 1 tablespoon of oil to the pan and sauté garlic and ginger until fragrant. Add the remaining sauce ingredients and stir until smooth.",
+"Return the chicken and vegetables to the saucy pan, stir until heated through.",
+"Serve with hot rice or noodles."],
+"calories":"272"
+},
+{
+"recipe":"Butter Chicken",
+"ingredients":["chicken","chili powder","turmeric","butter","onion","garam masala","cumin","ginger","garlic","cinnamon","tomato sauce","heavy cream","rice","cilantro"],
+"image":"pics/butterChicken.jpg",
+"instruction":["In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
+"Melt 2 tablespoons of butter in a large pot over medium heat. Brown the chicken, then remove from the pot.",
+"Melt another 2 tablespoons of butter in the pot, then add the onion, garam masala, remaining teaspoon of chili powder, the cumin, ginger, garlic, cayenne, cinnamon, salt and pepper. Cook until fragrant.",
+"Add the tomato sauce and bring to a simmer.",
+"Add the water and cream and return to a simmer.",
+"Return the chicken to the pot, cover, and simmer for another 10-15 minutes.",
+"Stir in the last 2 tablespoons of butter and season with more salt and pepper to taste.",
+"Serve the chicken over rice and garnish with cilantro."],
+"calories":"799"
+},
+{
+"recipe":"Chicken Alfredo Penne",
+"ingredients":["chicken","butter","oregano","basil","pasta","parsley","parmesan","garlic","flour","milk"],
+"image":"pics/ChickenAlfredoPenne.jpg",
+"instruction":["In a pan over medium-high heat, melt butter, then add the chicken breast.",
+"Season with salt, pepper, oregano, and basil. Cook 8-10 minutes or until chicken is fully cooked. Remove from heat and set chicken aside.",
+"In the same pan over medium heat, melt butter and add the garlic. Cook until the garlic begins to soften.",
+"Add half of the flour to the garlic and butter, stirring until incorporated. Then add the rest of the flour and stir.",
+"Pour in the milk a little bit at a time, stirring well in between, until fully incorporated and sauce begins to thicken.",
+"Season with salt, pepper, oregano, and basil, and stir well to incorporate.",
+"Add parmesan cheese and stir until melted.",
+"Pour the sauce over cooked penne pasta, add the chicken and mix well.",
+"Add parsley and extra parmesan. Mix well."],
+"calories":"464"
+},
+{
+"recipe":"Pesto Chicken & Veggies",
+"ingredients":["olive oil","chicken","green beans","cherry tomato","pesto"],
+"image":"pics/PestoChickenandVeggies.jpg",
+"instruction":["In a large pan, heat olive oil and add chicken thighs.",
+"Season with salt and pepper. When the chicken is completely cooked through, remove from pan.",
+"Slice into strips, and set aside.",
+"Add green beans and cook until crisp tender.",
+"Return the chicken strips to the pan, then add tomatoes and pesto. Stir until fully incorporated.",
+"Serve immediately or divide into 4 food storage containers and store in the refrigerator. Can be kept refrigerated for up to 4 days."],
+"calories":"394"
+},
+{
+"recipe":"beef and broccoli",
+"ingredients":["soy sauce","beef","honey","rice wine vinegar","brown sugar","garlic","sesame oil","cornstarch","sriracha","ginger","red pepper flakes","broccoli"],
+"image":"pics/beefandbroccoli.jpg",
+"instruction":["In a medium bowl, whisk together soy sauce, honey, vinegar, brown sugar, garlic, sesame oil, cornstarch, Sriracha, ginger, red pepper flakes and 1/4 cup water; set aside.",
+"Heat olive oil in a large skillet over medium high heat. Add steak and cook, flipping once, until browned, about 3-4 minutes.",
+"Stir in broccoli and soy sauce mixture until tender and slightly thickened, about 3-4 minutes."],
+"calories":"570"
+},
+{
+"recipe":"Chickpea Shakshuka",
+"ingredients":["olive","onion","bell pepper","garlic","tomato","tomato sauce","coconut sugar","paprika","cumin","chili powder","cinnamon","cardamom","coriander","chickpeas"],
+"image":"pics/ChickenpeaShakshuka.jpg",
+"instruction":["Heat a large rimmed metal or cast iron skillet over medium heat. Once hot, add olive oil, onion, bell pepper and garlic.",
+"Add tomato puree or diced tomatoes, tomato paste, coconut sugar, sea salt, paprika, cumin, chili powder, cinnamon, cayenne pepper, cardamom, and coriander. Stir to combine.",
+"Bring to a simmer over medium heat and cook for 2-3 minutes, stirring frequently.",
+"Add chickpeas and olives (optional). Stir to combine. Then reduce heat to medium-low and simmer for 15-20 minutes to allow the flavors to develop and marry with the beans.",
+"Taste and adjust seasonings as needed, adding more cumin or paprika for smokiness, cayenne for heat, coconut sugar for sweetness, cardamom and coriander for earthiness, chili powder for smoke/heat, or olives for saltiness and to balance the tomato flavor. Cook longer, as needed, to develop flavors.",
+"Serve as is or with bread, pasta, or rice. I loved this alongside a kale salad, and it went especially well over gluten-free pasta! Garnish with fresh lemon juice, additional olives, and cilantro or parsley for extra flavor."],
+"calories":"221"
+},
+{
+"recipe":"Spicy tuna avocado wrap",
+"ingredients":["tuna","avocado","sriracha","mustard","celery","onion","cilantro","lettuce","carrot","tortilla"],
+"image":"pics/SpicyTunaAvocadoWrap.jpg",
+"instruction":["In a medium bowl, mash together tuna and avocado until combined. Add in the rest of the ingredients through the salt and pepper, mixing well.",
+"To assemble, top each tortilla with a 1/2 cup leafy greens, 1/4 cup matchstick carrots and divide the tuna mixture evenly among the wraps. Tightly roll up the tortilla, slice and serve"],
+"calories":"296"
+},
+{
+"recipe":"Lo Mein",
+"ingredients":["soy sauce","oyster sauce","sesame oil","sugar","garlic","noodles","onion","carrot","red pepper","cabbage","mushrooms","mirin"],
+"image":"pics/LoMein.jpg",
+"instruction":["Shake all the sauce ingredients together in a jar(dark soy sauce, light soy sauce, oyster sauce, sesame oil, sugar, clove of garlic)",
+"Cook the noodles according to package directions. Drain and set aside.",
+"Heat the sesame oil in a large wok or skillet. Add the green onions (white parts) and vegetables to the hot pan. Stir fry until fork-tender, about 5 minutes.",
+"Add the mirin to loosen the browned bits up off the bottom of the pan. Add the cooked noodles and about half of the sauce – toss around in the hot pan to combine.",
+"Add more sauce if needed. Serve topped with remaining green onions."],
+"calories":"236"
+},
+{
+"recipe":"Cashew Chicken",
+"ingredients":["soy sauce","maple syrup","garlic","ginger","white rice vinegar","chicken","olive oil","red pepper","broccoli","cornstarch","raw whole cashews"],
+"image":"pics/CashewChicken.jpg",
+"instruction":["In a medium bowl, mix together soy sauce, maple syrup, minced garlic, grated ginger, and white rice vinegar. Set aside.",
+"Next, prepare chicken breast by slicing into 1-inch chunks.",
+"Turn on the Instant Pot's sauté feature. Heat 1.5 tablespoons of olive oil.",
+"When olive oil is fragrant, add diced chicken breast and cook for 1 to 2 minutes to brown.",
+"Turn off the sauté feature and add stir fry sauce.",
+"Cook on manual high pressure for 4 minutes.",
+"Dice 2 large red peppers and cut broccoli into bite-sized florets and set them aside. In a small bowl, whisk together 1/4 cup of water and 1 tablespoon of cornstarch. Set aside.",
+"Once the Instant Pot beeps, quick release to release the steam that has built up.",
+"Remove top and add chopped veggies, the slurry, and raw cashews to the Instant Pot and toss everything together.",
+"Turn on the Instant Pot's sauté feature and cook for around 3 minutes or until sauce has thickened.",
+"Turn off the sauté feature and immediately cover the Instant Pot for around 5 minutes to let the veggies steam and fully cook.",
+"Remove lid and assess how cooked the veggies are. If they need to continue cooking, put the top back on to continue steaming. Remember, no one likes overcooked veggies.",
+"Serve over your favorite grain."],
+"calories":"355"
+},
+{
+"recipe":"Spinach pie",
+"ingredients":["puff pastry","spinach","onion","garlic","olive oil","cottage cheese","parmesan","nutmeg","eggs"],
+"image":"pics/SpinachPie.jpg",
+"instruction":["Dice the onion and mince the garlic. Add the onion, garlic, and olive oil to a skillet and sauté over medium heat until the onions are soft and translucent. Set the onions and garlic aside to cool slightly.",
+"Add the cottage cheese, Parmesan, nutmeg, salt, pepper, and two of the eggs to a bowl, and stir to combine.",
+"Squeeze out as much water as possible from the thawed spinach. Add the squeezed spinach and sautéed onion and garlic to the bowl with the cheese mixture. Stir to combine again.",
+"Place a sheet of parchment paper on your work surface, and roll the thawed puff pastry out until it's just slightly larger, about 10x10 inches.",
+"Drape the rolled pastry dough out over a pie plate. Spread the spinach and cheese mixture inside the pastry dough, then take the corners and fold them in toward the center.",
+"Lightly whisk the remaining egg and brush it over the surface of the pastry dough. Bake the spinach pie for about 45 minutes, or until the pasty on top has puffed up significantly and turned golden brown.",
+"Remove the spinach pie from the oven, let sit for about five minutes, then slice into eight pieces and serve."],
+"calories":"264"
+},
+{
+"recipe":"Ratatouille",
+"ingredients":["eggplant","tomato","squashes","zucchini","olive oil","onion","garlic","bell pepper","basil","parsley","thyme"],
+"image":"pics/Ratatoille.jpg",
+"instruction":["Preheat the oven for 375˚F.",
+"Slice the eggplant, tomatoes, squash, and zucchini, then set aside.",
+"Make the sauce: Heat the olive oil in a 12-inch oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.",
+"Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.",
+"Make the herb seasoning: In a small bowl, mix together the basil, garlic, parsley, thyme, salt, pepper, and olive oil. Spoon the herb seasoning over the vegetables.",
+"Cover the pan with foil and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened.",
+"Serve while hot as a main dish or side. The ratatouille is also excellent the next day--cover with foil and reheat in a 350˚F oven for 15 minutes, or simply microwave to desired temperature."],
+"calories":"230"
+},
+{
+"recipe":"Potato soup",
+"ingredients":["potato","milk","butter"],
+"image":"pics/PotatoSoup.jpg",
+"instruction":["Cover potatoes with water in a large soup pot.",
+"Cook over medium heat until fork tender, about 20 minutes. Remove from heat and drain.",
+"Add milk and butter to the potatoes. Place back on medium heat and allow milk to bubble slightly around the edges of the soup pot, about 5 to 10 minutes.",
+"Remove from heat and ladle into soup bowls.",
+"Serve with salt and pepper to taste."],
+"calories":"171"
+},
+{
+  "recipe":"fried bacon and eggs",
+  "ingredients":["bacon","eggs"],
+  "image":"pics/baconandeggs.jpg",
+  "instruction":["fry the bacon and the eggs","add seasoning"],
+  "calories":"185"
+},
+{
+  "recipe":"Pan Sausage and Veggies",
+  "ingredients":["red potato","green beans","broccoli","bell pepper","smoked sausage","olive oil","red pepper flakes","paprika","garlic powder","oregano","parsley"],
+  "image":"pics/PanSausageandVeggies.jpg",
+  "instruction":["Preheat the oven to 400 degrees F.",
+  "Wash and chop the unpeeled baby red potatoes.",
+  "Trim the green beans and then cut in half, chop the broccoli into florets, chop the peppers into 1-inch pieces, and coin the sausage in thick (1/2-inch) slices.",
+  "Place all the veggies and sausage on the prepared sheet pan. Pour the olive oil and all the seasonings on top. Season to taste with salt and pepper.",
+  "Use your hands to toss and evenly coat all the veggies and sausage with seasonings. Space everything out so it has plenty of space to cook. If veggies are crammed/overlapping they'll steam instead of roast and will take longer to cook.",
+  "Bake 15 minutes, remove from the oven and flip/stir all the veggies around. Return to the oven and bake for another 10-15 minutes or until vegetables are crisp-tender."],
+  "calories":"692"
+},
+{
+  "recipe":"peas and rice",
+  "ingredients":["peas","rice","tomato","meat"],
+  "image":"pics/peasrice.jpg",
+  "instruction":["Cook the rice (each cup of rice requires 2 cups of water","Cook the carrots, peas and meat with water and tomato sauce"],
+  "calories":"350"
+},
+{
+  "recipe":"russian salad",
+  "ingredients":["peas","potato","carrot","pickles","mayonnaise","eggs"],
+  "image":"pics/russiansalad.jpg",
+  "instruction":["The first step is to cook your potatoes and carrots. I used a steamer, but you can always go the traditional route and boil them. In either case, peel the carrots but not the potatoes. If you are steaming (or nuking in the microwave to streamline the process), make sure to prick the potatoes with a fork.",
+  "Steam the potatoes for 30 minutes to start with, and then add the peeled carrots. Continue steaming for 10-15 more minutes, or until the potatoes and carrots are firm but tender when poked."
+  ,"Meanwhile, cook your frozen peas according to package directions. I use the kind that can be steamed in the package in the microwave. When they are done, set them aside to cool.",
+  "Peel the potatoes. Using your fingers or the back of a knife, gently scrape the thin layer of skin off of the potatoes. Dice them into ½-inch cube-ish shapes and put them into a medium serving bowl.",
+  "Dice the carrots","Peel and dice your hardboiled eggs.","cut the pickles","add everything together and enjoy"],
+  "calories":"400"
+},
+{
+  "recipe":"onion soup",
+  "ingredients":["onion","bread","beef","garlic","sugar"],
+  "image":"pics/onionsoup.jpg",
+  "instruction":["Caramelize the onions. First, you need to cut the onions into very thin slices then sauté them in the butter over medium heat, stirring occasionally, until they have a dark-brown, rich color for about 50 minutes or longer.",
+  "Add the stock and the other remaining ingredients: Add the stock, and bouquet garni. Bring the soup to a simmer then lower the heat and cover the pot. Simmer the soup gently for about 30-35 minutes to develop its full flavor. Season with salt/black pepper if needed."
+  ,"Prepare the garnish: While the soup is simmering, slice some fresh French baguette. Brush each slice of bread with olive oil then bake in the preheated oven (400°F) for about 3-5 minutes then rub the toasted bread with halved garlic."],
+  "calories":"246"
+}
+
+]

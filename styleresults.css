@@ -1,0 +1,178 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    outline:none;
+    border:none;
+    text-decoration:none;
+    transition: all 0.2s linear;
+    text-transform: capitalize;
+}
+
+html{
+    overflow-x:hidden;
+}
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    max-width:1100px;
+    margin:0 auto;
+    padding: 45px 35px; 
+}
+
+.container .title{
+    font-size:40px;
+    color: #444;
+    margin-bottom:30px;
+    text-transform: uppercase;
+    text-align:center;
+}
+
+
+.container  #search_recipe{
+    border: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 1em;
+    width:490px;
+}
+
+.container p{
+    color: #444;
+    margin-bottom:30px;
+    text-align:center;
+    font-size: 25px;
+    text-transform: none;
+}
+
+.container .result_container{
+    display : grid;
+    grid-template-columns : repeat(auto-fill, minmax(30rem, 1fr));
+    gap:2.5rem;
+}
+
+.container .result_container .recipe{
+    text-align:center;
+    padding:3rem 2rem;
+    background: #fff;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.2); 
+    border-radius: 20px;
+    outline: .1rem solid #fff;
+    outline-offset: -1rem;
+    cursor:pointer;
+}
+
+.container .result_container .recipe:hover{
+
+    outline:.2rem solid #222;
+    outline-offset: 0;
+}
+
+.container .result_container .recipe.hide{
+    display:none;
+}
+
+.container .result_container .recipe.hide2{
+    display:none;
+}
+
+.container .result_container .recipe img{
+    height: 13rem;
+}
+.container .result_container .recipe:hover img{
+    transform: scale(0.95);
+}
+.container .result_container .recipe h3{
+    padding: .5rem 0;
+    font-size: 2rem;
+    color:#444;
+}
+
+.container .result_container .recipe:hover h3{
+    color:rgb(64, 132, 109);
+}
+
+
+/**********************************************************************/
+
+.recipe_preview{
+    position: fixed;
+    top:0; left:0;
+    min-height: 100vh;
+    width: 100%;
+    background: rgba(0,0,0,.8);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+ }
+ 
+ .recipe_preview .preview{
+    display: none;
+    padding:2rem;
+    /* border-radius: 15px; */
+    text-align: center;
+    background: #fff;
+    position: relative;
+    margin:2rem;
+    width: 40rem;
+ }
+ 
+ .recipe_preview .preview.active{
+    display: inline-block;
+    padding: 2rem;
+    height: 450px;
+    overflow-y: scroll;
+ }
+ 
+
+ .recipe_preview .preview img{
+    height: 15rem;
+ }
+ 
+
+
+.recipe_preview .preview .xButton{
+    position: absolute;
+    top:1rem; right:1.5rem;
+    cursor: pointer;
+    color:#444;
+    font-size: 3.5rem;
+    background-color: #fff;
+    font-weight: bold;
+}
+
+.recipe_preview .preview .xButton:hover{
+    color:red;
+}
+
+.recipe_preview .preview h3{
+    color:#444;
+    padding:.5rem 0;
+    font-size:2rem;
+}
+
+.recipe_preview .preview .instructions_div{
+    padding:1rem 0;
+    font-size:1rem;
+    font-weight: bolder;
+    margin-bottom: .2em;
+}
+
+.recipe_preview .preview p{
+    margin-top: 1em;
+}
+
+.recipe_preview .preview .instructions_div ol li{
+    line-height: 1.2;
+    font-weight: 400;
+    padding-left: 0.5em;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 1em;
+}
+/********************************************************/
+
